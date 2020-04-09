@@ -1,0 +1,16 @@
+.card-list {
+  width: 95vw;
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  margin: 1rem auto;
+}
+
+.list {
+  width: 100%;
+}
+
+.monsters {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}

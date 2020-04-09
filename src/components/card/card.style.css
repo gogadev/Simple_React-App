@@ -1,0 +1,38 @@
+.card {
+  display: grid;
+  margin: 1rem auto;
+  padding: 0.3rem 0.5rem;
+  text-align: center;
+}
+
+.info {
+  margin: 0.5rem auto;
+
+}
+
+.monster {
+    width: 250px;
+    height: 320px;
+    border: 1px solid brown;
+
+}
+
+.name {
+    padding: 0.3rem;
+    background: lightsalmon;
+}
+
+.email {
+    padding: 0.2rem;
+    border-bottom: 1px solid grey;
+}
+
+.city {
+    padding: 0.3rem;
+    background: lightslategray;
+}
+
+.company {
+    padding: 0.3rem;
+    background: lightsteelblue;
+}
